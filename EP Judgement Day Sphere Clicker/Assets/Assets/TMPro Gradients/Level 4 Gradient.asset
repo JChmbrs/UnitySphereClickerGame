@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2108210716, guid: 89f0137620f6af44b9ba852b4190e64e, type: 3}
+  m_Name: Level 4 Gradient
+  m_EditorClassIdentifier: 
+  topLeft: {r: 0.2971698, g: 0.7214214, b: 1, a: 1}
+  topRight: {r: 0.6829966, g: 0.4141153, b: 0.8867924, a: 1}
+  bottomLeft: {r: 0.8396226, g: 0.8396226, b: 0.8396226, a: 1}
+  bottomRight: {r: 0.86694556, g: 0.8805625, b: 0.9622642, a: 1}

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 029e4e911f906c44aa43c4125694ae67
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HighPointSphere: {fileID: 1778797105892848, guid: f6804b9b2cc3e19449114516b984ee80,
+      type: 2}
+  - MiddlePointSphere: {fileID: 1150028323329282, guid: 619322c259404f549a9bc81f65159a1b,
+      type: 2}
+  - LowPointSphere: {fileID: 1687007943070900, guid: 969e12ccdc3f5af4b998930ff848b1e2,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
